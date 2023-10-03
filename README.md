@@ -22,7 +22,7 @@ This repository contains two Python scripts, `rename_studies_anum.py` and `dcm_o
 ### Package Installation
 For Python package dependencies, you can install them using pip:
 ```bash
-pip install -r reuirments.txt
+pip install -r requirements.txt
 ```
 
 ---
